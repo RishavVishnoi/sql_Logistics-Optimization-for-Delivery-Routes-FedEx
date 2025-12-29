@@ -85,6 +85,8 @@ The project uses a relational database consisting of the following tables:
 
 ---
 
+![ER Diagram](assets/ERdiagram.jpg)
+
 ## 🧠 Tasks Performed
 
 ### ✅ Task 1: Data Cleaning & Preparation
