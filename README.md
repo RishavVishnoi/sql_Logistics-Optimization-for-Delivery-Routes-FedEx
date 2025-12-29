@@ -85,7 +85,7 @@ The project uses a relational database consisting of the following tables:
 
 ---
 
-![ER Diagram](assets/ERdiagram.jpg)
+![Library_project](ERdiagram.jpg)
 
 ## 🧠 Tasks Performed
 
